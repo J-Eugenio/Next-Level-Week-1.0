@@ -9,7 +9,7 @@
 <a href="https://github.com/badges/shields"><img alt="Custom badge" src="https://img.shields.io/badge/custom-badge-f39f37.svg" height="20"/></a>
 <a href="https://github.com/J-Eugenio/FabSoft-SCO/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" height="20"/></a>
 </p>
-<p align="center">Projeto Desenvilvido na semana Next Level Week 1.0.</p>
+<p align="center">Projeto Desenvolvido na semana Next Level Week 1.0.</p>
 
 
 
