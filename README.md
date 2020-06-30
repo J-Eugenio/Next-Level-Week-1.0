@@ -1,5 +1,5 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><p align="center">
-  <img src="" alt="Logo" />
+  <img src="https://github.com/J-Eugenio/react-rich-text-editor/blob/master/git_assets/React-logo.png?raw=true" alt="Logo" />
 </p>
 <h1 align="center">Ecoleta</h1>
 <p align="center">
